@@ -7,6 +7,6 @@ begin
   else 
     println('Год не высокостен');
   
- print(60);
+
     
 end.
